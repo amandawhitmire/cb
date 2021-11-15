@@ -1,15 +1,7 @@
 # Data Over Decades
 ## A joint catalog of undergraduate student research papers from US west coast marine research stations.
 
-<<<<<<< Updated upstream
 > A project that uses the CollectionBuilder-CSV template
-=======
-
-
-> A project that uses the CollectionBuilder-CSV template
-
-
->>>>>>> Stashed changes
 
 ----------
 
