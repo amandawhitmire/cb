@@ -23,9 +23,9 @@ title: Data Over Decades
 tagline: A federated catalog of undergraduate marine science research papers
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This project aims to ameliorate critical gaps in observational biodiversity datasets while also developing a novel, federated discovery solution for dispersed library collections."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: marine biology;marine science;field stations;libraries;library
+keywords: marine biology;marine science;field stations;library;machine learning;biodiversity;species occurrence 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: amandawhitmire
 # Organization branding
